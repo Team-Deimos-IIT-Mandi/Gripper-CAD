@@ -1,2 +1,2 @@
-# CAD-files
-Contains CAD files from various team members for final assembly
+# gripper
+Contains CAD file of the gripper of the robotic arm
