@@ -3,8 +3,8 @@
 "bumpIsNormalMap" on
 "bumpStrength" 0.001
 "bumpTexture" ""
-"col1" 0.827451 0.666667 0.129412
-"col2" 0.647059 0.517647 0
+"col1" 0.776471 0.756863 0.737255
+"col2" 0.529412 0.54902 0.54902
 "diffuse_factor" 1
 "displacementDistance" 0.001
 "doubleSided" on
@@ -13,11 +13,11 @@
 "luminousIntensity" 0
 "mtl_ior" 1
 "num_cols" 2
-"reflectivity" 0.65
+"reflectivity" 0.3
 "refractionRoughness" 0
 "roughness" 0.7
-"specular_color" 1 0.858824 0.619608
+"specular_color" 0.898039 0.898039 0.898039
 "specular_factor" 0.7
 "swP2M" on
-"sw_shader" polishedbrass
+"sw_shader" polishedcarbonsteel
 "transparency" 0
